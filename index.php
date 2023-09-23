@@ -7,6 +7,7 @@
 </head>
 <body>
 <div>
+    <h2> Pizza order calculator app</h2>
     <form action="index.php" method="post">
         <label for="quantity">Quantity</label> <br>
         <input type="text" name="quantity"> <br>
